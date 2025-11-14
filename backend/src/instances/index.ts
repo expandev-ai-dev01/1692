@@ -5,5 +5,4 @@
  *
  * @module instances
  */
-
-// Instances will be added here as features are implemented
+export { weatherCache } from './cache/weatherCache';
